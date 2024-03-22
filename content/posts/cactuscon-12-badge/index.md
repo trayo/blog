@@ -1,7 +1,7 @@
 +++
 title = 'Cactuscon 12 Badge Reverse Engineering'
 date = 2024-03-21T11:29:04-07:00
-draft = true
+draft = false
 +++
 
 Hello and welcome to the reverse engineering guide of the CactusCon 12 (2024) badge.
