@@ -4,8 +4,6 @@ The new blog of YoderBacon.com
 
 This blog was created with [Hugo](https://gohugo.io).
 
-It uses the theme [Blowfish](https://themes.gohugo.io/themes/blowfish/).
-
 ## Installation and How to Use
 
 See the [Hugo quick start guide](https://gohugo.io/getting-started/quick-start).
